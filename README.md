@@ -1,7 +1,8 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)]
+![logo](https://github.com/AishwaryaSatpute1/AishwaryaSatpute1/blob/main/Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Aishawarya Satpute</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif")
+(img align="right" alt="Coding" width="400" src="")
+
 
 - 🔭 I’m currently working on [Aerial Object Detection and Recognition](https://github.com/AishwaryaSatpute1/Aerial-Object-Detection-and-Recgnition)
 
